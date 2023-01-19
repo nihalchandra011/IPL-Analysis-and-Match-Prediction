@@ -13,11 +13,11 @@ The <b>Indian Premier League (IPL)</b> is one of the most popular professional T
 
 **Libraries**
 <br>The project is implemented in Python 3.6 environment using Jupyter Notebook and the following libraries:
-Numpy v1.19.1
-Pandas v1.1.1
-Matplotlib v3.3.1
-Plotly v4.9.0
-Sci-kit learn v0.23.2
+- Numpy v1.19.1
+- Pandas v1.1.1
+- Matplotlib v3.3.1
+- Plotly v4.9.0
+- Sci-kit learn v0.23.2
 
 **Implementation**
-To run the project, open the IPL Analysis and Match Prediction.ipynb file using Jupyter Notebook and click on the Run button |>>|.
+<br>To run the project, open the IPL Analysis and Match Prediction.ipynb file using Jupyter Notebook and click on the Run button |>>|.
